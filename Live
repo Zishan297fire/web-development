@@ -1,0 +1,34 @@
+<DOCTYPE html>
+<html>
+<head>
+<title>
+Hyper link
+</title>
+</head>
+<body>
+<h2>
+    Ordered list
+</h2>
+<ul>
+    <li>Home</li>
+    <li>About Us</li>
+    <li>Contact Us</li>
+</ul>
+<h2>
+    Unordered list
+</h2>
+<ol>
+    <li>Home</li>
+    <li>About Us</li>
+    <li>Contact Us</li>
+</ol>
+<h2>
+   Defination list
+</h2>
+<ol>
+    <li>Home</li>
+    <li>About Us</li>
+    <li>Contact Us</li>
+</ol>
+</body>
+</html>
