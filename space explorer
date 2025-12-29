@@ -1,0 +1,35 @@
+<Doctype html>
+<html>
+    <head>
+        <link href="style.css" rel="stylesheet" type="text/css"/>
+    </head>
+    <body>
+     <h1>
+        Welcome to the space explorer station
+     </h1>
+     <ul>
+        <li>
+            Moon missions
+        </li>
+        <li>
+            Mars rovers
+        </li>
+        <li>
+            International space station
+        </li>
+        <li>
+            Telescope and stars
+        </li>
+        <li>
+            Black hole mysteries
+        </li>
+     </ul>
+     <p>
+        Space exploration has always captivated human imagination .its 
+        a journey to the unknown
+     </p>
+     <a href="#">Join our mission</a>
+      <a href="#">Latest space news</a>
+       <a href="#">Gallery of universe</a>
+    </body>
+</html>
